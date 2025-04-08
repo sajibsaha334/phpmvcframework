@@ -1,0 +1,15 @@
+{
+    "name": "bs-00615/phpmvcframework",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sajib Saha",
+            "email": "sajib.saha@brainstation-23.com"
+        }
+    ],
+    "require": {}
+}
