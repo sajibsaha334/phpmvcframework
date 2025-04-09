@@ -10,4 +10,9 @@ class controller
     {
         return Application::$app->router->renderView($view, $params);
     }
+
+    public function setLayout()
+    {
+
+    }
 }
